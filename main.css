@@ -10,6 +10,7 @@
 /* 
 	You can modify everything after this point.
 */
+@import url('https://fonts.googleapis.com/css?family=Lato:400,400i,700|Roboto:400,400i,700&display=swap');
 
 a:link, a:visited {
 	color: blue;
@@ -24,7 +25,10 @@ a:focus, a:hover {
 }
 
 body {
-
+font-family: 'Roboto', sans-serif;
+width: 60em;
+margin: 0 auto;
+line-height: 2em;
 }
 
 code {
